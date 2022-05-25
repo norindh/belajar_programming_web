@@ -1,0 +1,1 @@
+halo , Nama saya adalah Nor Indah Aulia ;
