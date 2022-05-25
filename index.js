@@ -1,1 +1,1 @@
-halo , Nama saya adalah Nor Indah Aulia ;
+console.log("Halloo,Nama Saya Adalah Nor Indah Aulia,Salam Kenal Semuanya");
